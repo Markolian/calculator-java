@@ -1,0 +1,50 @@
+
+Osnovne Aritmetičke Operacije:
+
+Test Primer 1:
+Ulaz: "2 + 3"
+Očekivani Rezultat: "5"
+5 je izbacilo
+
+Test Primer 2:
+Ulaz: "8 - 4"
+Očekivani Rezultat: "4"
+4 je izbacilo
+
+
+Test Primer 1:
+Ulaz: "2 + 3 * 4"
+Očekivani Rezultat: "14"
+14 je izbacilo
+
+Test Primer 2:
+Ulaz: "(2 + 3) * 4"
+Očekivani Rezultat: "20"
+Izbacilo "ERROR"
+
+
+Test Primer 1:
+Ulaz: "-5 + 8"
+Očekivani Rezultat: "3"
+3 je izbacilo
+
+Test Primer 1:
+Ulaz: "5 + + 3"
+Očekivani Rezultat: "ERROR"
+ERROR je izbacilo
+
+
+Test Primer 1:
+Ulaz: "8 / 0"
+Očekivani Rezultat: "ERROR"
+Izbacilo je Infinity
+
+Test Primer 1:
+Ulaz: "2 + 3 * (4 - 1)"
+Očekivani Rezultat: "11"
+Izbacilo ERROR
+
+Test Primer 2:
+Ulaz: "-2 * (3 + 5)"
+Očekivani Rezultat: "-16"
+Izbacilo ERROR
